@@ -1,5 +1,6 @@
 # 🏅 Olympics Data Analysis (1896-2016)
-![image](https://images-cdn.ubuy.co.in/634fbb37ad83f63c086c2195-olympics-flag-olympic-games-yard-flags.jpg)
+![A professional banner image for 'Olympics Data Analysis'  The design should feature the Olympic rings, a dynamic stadium background, and a futuristic](https://github.com/user-attachments/assets/f7c35027-5875-4d90-becf-0aa31dda85de)
+
 
 
 ## 📌 Project Overview

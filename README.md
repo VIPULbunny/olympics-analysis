@@ -6,6 +6,8 @@
 The **Olympic Games** have been the pinnacle of international sports since **1896**. This project explores the historical dataset of the Olympics, uncovering trends, athlete performance, and country-wise participation. Through data cleaning, visualization, and analysis, we gain insights into how the Games have evolved over time.
 
 ## 📂 Dataset Description
+The size of **athlete_events.csv** is more than 20mb so i had provided the link and description in the file name **'Dataset_link.py'**
+
 This analysis uses two primary datasets:
 
 1. **athlete_events.csv** - Contains detailed records of Olympic athletes, including:
